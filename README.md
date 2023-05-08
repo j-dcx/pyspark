@@ -5,5 +5,3 @@ Important note - argmax needs to be used on predicted labels by fitted_pipeline.
 https://stackoverflow.com/questions/59951319/how-to-get-the-index-of-the-highest-value-in-a-list-per-row-in-a-spark-dataframe
 
 Running with only 1% of data transform method returns predictions, otherwise processing stalls.
-
-test
